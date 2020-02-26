@@ -1,0 +1,20 @@
+.ui.borderless.topmenu.menu {
+  background-color: #f5f5f5;
+  box-shadow: none;
+  border: none;
+  font-family: sans-serif;
+  font-size: larger;
+}
+
+#searchicon {
+  margin-right: 200px;
+  float: inside;
+  height: 60px;
+  width: 60px;
+}  |
+
+#logo {
+  margin-left: -180px;
+  height: 101x;
+  width: 101px;
+}
